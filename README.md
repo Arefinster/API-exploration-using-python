@@ -11,5 +11,7 @@ cloudiness for the purpose of identifying best weather-friendly places for vacat
 hotels within a desired radius around each of the identified places. Lastly, we add the Country name and the hotel names
 associated with the identified places. These information are displayed on the hover message on the geoViews map.
 
+Outputs: The results from both the parts are included in the output_data folder.
+
 NOTE: I have worked on this assignment alone. However, I have consulted with the learning assistants 2 to 3 times to clarify
 the assignment and debug my code.
